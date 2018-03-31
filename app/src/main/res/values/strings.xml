@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PowerReceiver2</string>
+    <string name="button_custom_receiver">Custom Receiver</string>
+</resources>
